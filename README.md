@@ -22,3 +22,9 @@ If you need to test against local gems, use Bundler's gem `:path` option in the 
 * [![Travis CI](https://api.travis-ci.org/rails/coffee-rails.png)](http://travis-ci.org/rails/coffee-rails)
 * [![Gem Version](https://badge.fury.io/rb/coffee-rails.png)](http://badge.fury.io/rb/coffee-rails)
 * [![Dependencies](https://gemnasium.com/rails/coffee-rails.png)](https://gemnasium.com/rails/coffee-rails)
+
+Guilherme Reis
+
+* https://www.worldcode.com.br
+
+![alt text](https://res.cloudinary.com/dgxdamqhe/image/upload/v1545168182/logo_wc_png_irc4l2.png)
